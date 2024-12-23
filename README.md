@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I mainly use this repo for some hobby projects, including my solutions for Advent of Code
+
+
 <!--
 **blubber-rubber/blubber-rubber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
